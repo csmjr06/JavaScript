@@ -1,4 +1,5 @@
-let arr1 = ["Agua", "Terra"];
-let arr2 = ["Água", "Terra", "Fogo", "Ar"];
-console.log(arr1.lenght);
-console.log(arr2.lenght);
+let arr1 = ["Água","Terra","Fogo","Ar"];
+let arr2 = ["Adamantio","RedStone"];
+
+console.log(arr1.length);
+console.log(arr2.length);
